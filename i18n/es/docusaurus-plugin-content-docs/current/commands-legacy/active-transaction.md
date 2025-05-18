@@ -42,7 +42,7 @@ Usted quiere conocer el estado de la transacción actual:
 [In transaction](in-transaction.md)  
 [RESUME TRANSACTION](resume-transaction.md)  
 [SUSPEND TRANSACTION](suspend-transaction.md)  
-*Suspender las transacciones*  
+[Suspender las transacciones](../Develop-legacy/transactions.md#suspending-transactions)  
 
 ## Propiedades
 
