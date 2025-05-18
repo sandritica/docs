@@ -29,7 +29,7 @@ Tenga en cuenta que cuando OK toma el valor 0, la transacción automáticamente 
 [CANCEL TRANSACTION](cancel-transaction.md)  
 [In transaction](in-transaction.md)  
 [START TRANSACTION](start-transaction.md)  
-*Utilización de transacciones*  
+[Utilización de transacciones](../Develop-legacy/transactions.md)
 
 ## Propiedades
 
